@@ -11458,9 +11458,45 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3489672093237930757, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.813
+      objectReference: {fileID: 0}
+    - target: {fileID: 3489672093237930757, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.985
+      objectReference: {fileID: 0}
+    - target: {fileID: 3489672093237930757, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -9.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 4077580548440696000, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.258
+      objectReference: {fileID: 0}
+    - target: {fileID: 4077580548440696000, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 4077580548440696000, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.366
+      objectReference: {fileID: 0}
     - target: {fileID: 7920399159466451041, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
       propertyPath: m_Name
       value: Interactable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8018480917058001085, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.852
+      objectReference: {fileID: 0}
+    - target: {fileID: 8018480917058001085, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.848
+      objectReference: {fileID: 0}
+    - target: {fileID: 8018480917058001085, guid: f1b13c318f7f5a044a6ce50880d92f9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -11.427
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
