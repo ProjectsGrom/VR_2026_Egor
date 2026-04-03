@@ -25,7 +25,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (TeleportActiv.action.WasReleasedThisFrame()) ;
+        if (TeleportActiv.action.WasReleasedThisFrame()) 
         {
             TeleportInteractorp.gameObject.SetActive(false);
         }
