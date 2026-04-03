@@ -6,6 +6,7 @@ public class BasketRing : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         Instantiate(FX, transform.parent);
+        Instantiate(other.gameObject);
     }
 }
 
